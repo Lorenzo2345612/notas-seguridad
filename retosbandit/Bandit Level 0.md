@@ -9,6 +9,8 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 **password**: bandit0
 **port**: 2220
 
+c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
+
 ## Solución
 
 ```
