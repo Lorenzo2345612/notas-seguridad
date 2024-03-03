@@ -11,4 +11,6 @@ picoCTF{s4n1ty_v3r1f13d_1a94e0f9}
 
 ## Notas adicionales
 
+**cat** nos sirve para leer el contenido de un archivo en linux.
+
 ## Referencias

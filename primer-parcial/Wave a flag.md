@@ -1,5 +1,6 @@
 ## Objetivo
 
+Can you invoke help flags for a tool or binary? [This program](https://mercury.picoctf.net/static/beec4f433e5ee5bfcd71bba8d5863faf/warm) has extraordinarily helpful information...
 ## Solución
 
 ```
@@ -24,5 +25,7 @@ Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1
 ```
 
 ## Notas adicionales
+El comando **chmod** sirve para cambiar los permisos de un archivo.
 
+Los archivos ejecutables se ejecutan con **./**
 ## Referencias
