@@ -1,3 +1,4 @@
+:w
 #!/bin/bash
 
 nc localhost 30002

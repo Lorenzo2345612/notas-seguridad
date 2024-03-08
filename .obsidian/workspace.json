@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae52a7696fa2d39",
+        "id": "d09e683e62740a30",
         "type": "tabs",
         "children": [
           {
-            "id": "d258cd9def5a4d8f",
+            "id": "d3c39837cf0c4c32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosbandit/Bandit Level 24 - 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b33ca531a3e8d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retosbandit/Bandit Level 25 - 26.md",
+                "file": "retosWeb/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosbandit/Bandit Level 25 - 26.md",
+                "file": "retosWeb/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosbandit/Bandit Level 25 - 26.md",
+                "file": "retosWeb/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosbandit/Bandit Level 25 - 26.md"
+                "file": "retosWeb/JaWT Scratchpad.md"
               }
             }
           }
@@ -159,36 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b33ca531a3e8d4d",
+  "active": "d3c39837cf0c4c32",
   "lastOpenFiles": [
-    "retosbandit/Bandit Level 26 - 27.md",
-    "retosbandit/Bandit Level 25 - 26.md",
-    "retosbandit/Bandit Level 24 - 25.md",
-    "retosbandit/Plantilla.md",
-    "retosbandit/Bandit Level 0.md",
-    "retosbandit/Bandit Level 28 - 29.md",
-    "retosbandit/Bandit Level 29 - 30.md",
-    "retosbandit/Bandit Level 30 - 31.md",
-    "retosbandit/Bandit Level 31 - 32.md",
-    "retosbandit/Bandit Level 32 - 33.md",
-    "retosbandit/Bandit Level 27 - 28.md",
-    "retosbandit/Bandit Level 23 - 24.md",
-    "retosbandit/Bandit Level 22 - 23.md",
-    "retosbandit/Untitled.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "retosbandit/Bandit Level 14 - 15.md",
-    "retosbandit/Bandit Level 15 - 16.md",
-    "retosbandit/Bandit Level 16 - 17.md",
-    "retosbandit/24-25.sh",
-    "primer-parcial/Wave a flag.md",
+    "retosWeb/Scavenger Hunt.md",
+    "retosWeb/JaWT Scratchpad.md",
+    "retosWeb/Irish-Name-Repo 3.md",
+    "retosWeb/Irish-Name-Repo 2.md",
+    "retosWeb/Irish-Name-Repo 1.md",
+    "retosWeb/GET aHEAD.md",
+    "retosWeb/logon.md",
     "primer-parcial/plantilla1.md",
-    "primer-parcial/Obedient Cat.md",
+    "retosWeb/picobrowser.md",
+    "retosWeb/Client-side-again.md",
+    "retosWeb/Dont_use_client_side.md",
+    "retosWeb/where are the robots.md",
+    "retosWeb/Insp3ctor.md",
+    "primer-parcial/plumbing.md",
+    "primer-parcial/Based.md",
+    "primer-parcial/Warmed Up.md",
+    "primer-parcial/Wave a flag.md",
+    "primer-parcial/wats a net cat.md",
+    "primer-parcial/runme.py.md",
+    "primer-parcial/PW Crack 3.md",
+    "primer-parcial/PW Crack 2.md",
+    "primer-parcial/PW Crack 1.md",
+    "primer-parcial/Glitch Cat.md",
+    "primer-parcial/fixme2.py.md",
+    "primer-parcial/strings it.md",
+    "primer-parcial/fixme1.py.md",
+    "retosWeb",
+    "retosbandit/24-25.sh",
     "primer-parcial",
-    "retosbandit/Bandit Level 21 - 22.md",
-    "retosbandit/Bandit Level 20 - 21.md",
-    "retosbandit/Bandit Level 19 - 20.md",
-    "retosbandit/Bandit Level 18 - 19.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "retosbandit"
