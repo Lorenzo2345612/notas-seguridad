@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosWeb/JaWT Scratchpad.md",
+                "file": "retosWeb/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosWeb/JaWT Scratchpad.md",
+                "file": "retosWeb/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosWeb/JaWT Scratchpad.md",
+                "file": "retosWeb/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosWeb/JaWT Scratchpad.md"
+                "file": "retosWeb/Scavenger Hunt.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "d3c39837cf0c4c32",
   "lastOpenFiles": [
+    "retosWeb/picobrowser.md",
     "retosWeb/Scavenger Hunt.md",
+    "retosWeb/Cookies.md",
+    "retosWeb/Dont_use_client_side.md",
+    "retosWeb/GET aHEAD.md",
+    "retosWeb/Insp3ctor.md",
     "retosWeb/JaWT Scratchpad.md",
     "retosWeb/Irish-Name-Repo 3.md",
     "retosWeb/Irish-Name-Repo 2.md",
     "retosWeb/Irish-Name-Repo 1.md",
-    "retosWeb/GET aHEAD.md",
     "retosWeb/logon.md",
     "primer-parcial/plantilla1.md",
-    "retosWeb/picobrowser.md",
     "retosWeb/Client-side-again.md",
-    "retosWeb/Dont_use_client_side.md",
     "retosWeb/where are the robots.md",
-    "retosWeb/Insp3ctor.md",
     "primer-parcial/plumbing.md",
     "primer-parcial/Based.md",
     "primer-parcial/Warmed Up.md",
@@ -172,8 +173,6 @@
     "primer-parcial/PW Crack 1.md",
     "primer-parcial/Glitch Cat.md",
     "primer-parcial/fixme2.py.md",
-    "primer-parcial/strings it.md",
-    "primer-parcial/fixme1.py.md",
     "retosWeb",
     "retosbandit/24-25.sh",
     "primer-parcial",
