@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d09e683e62740a30",
+        "id": "b067a7a6baabf625",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c39837cf0c4c32",
+            "id": "2f1913332d6be20d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosWeb/Scavenger Hunt.md",
+                "file": "picoCTF2024/WebDecode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosWeb/Scavenger Hunt.md",
+                "file": "picoCTF2024/WebDecode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosWeb/Scavenger Hunt.md",
+                "file": "picoCTF2024/WebDecode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosWeb/Scavenger Hunt.md"
+                "file": "picoCTF2024/WebDecode.md"
               }
             }
           }
@@ -146,33 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3c39837cf0c4c32",
+  "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "retosWeb/picobrowser.md",
-    "retosWeb/Scavenger Hunt.md",
-    "retosWeb/Cookies.md",
-    "retosWeb/Dont_use_client_side.md",
-    "retosWeb/GET aHEAD.md",
-    "retosWeb/Insp3ctor.md",
-    "retosWeb/JaWT Scratchpad.md",
-    "retosWeb/Irish-Name-Repo 3.md",
-    "retosWeb/Irish-Name-Repo 2.md",
-    "retosWeb/Irish-Name-Repo 1.md",
-    "retosWeb/logon.md",
-    "primer-parcial/plantilla1.md",
-    "retosWeb/Client-side-again.md",
-    "retosWeb/where are the robots.md",
-    "primer-parcial/plumbing.md",
-    "primer-parcial/Based.md",
-    "primer-parcial/Warmed Up.md",
-    "primer-parcial/Wave a flag.md",
-    "primer-parcial/wats a net cat.md",
-    "primer-parcial/runme.py.md",
-    "primer-parcial/PW Crack 3.md",
-    "primer-parcial/PW Crack 2.md",
-    "primer-parcial/PW Crack 1.md",
-    "primer-parcial/Glitch Cat.md",
-    "primer-parcial/fixme2.py.md",
+    "picoCTF2024/interencdec.md",
+    "picoCTF2024/WebDecode.md",
+    "picoCTF2024/format string 0.md",
+    "picoCTF2024/Bookmarklet.md",
+    "picoCTF2024/binhexa.md",
+    "picoCTF2024/Custom encryption.md",
+    "picoCTF2024/Binary Search.md",
+    "picoCTF2024/Time Machine.md",
+    "picoCTF2024/Super SSH.md",
+    "picoCTF2024/endianness.md",
+    "picoCTF2024/Commitment Issues.md",
+    "picoCTF2024/dont-you-love-banners.md",
+    "picoCTF2024/Collaborative Development.md",
+    "picoCTF2024/Blame Game.md",
+    "picoCTF2024/Verify.md",
+    "picoCTF2024/Secret of the Polyglot.md",
+    "picoCTF2024/Scan Surprise.md",
+    "picoCTF2024/Mob Psycho.md",
+    "picoCTF2024/Heap 0.md",
+    "picoCTF2024/CanYouSee.md",
+    "forensic/Matryoshka doll.md",
+    "Plantilla.md",
+    "forensic/Web Net1.md",
+    "forensic/Web Net0.md",
+    "forensic/MacroHard WeakEdge.md",
+    "forensic/tunn3l v1s10n.md",
+    "picoCTF2024",
+    "forensic",
     "retosWeb",
     "retosbandit/24-25.sh",
     "primer-parcial",
