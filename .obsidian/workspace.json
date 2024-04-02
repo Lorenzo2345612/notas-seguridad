@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF2024/WebDecode.md",
+                "file": "segundo-parcial/st3go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF2024/WebDecode.md",
+                "file": "segundo-parcial/st3go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF2024/WebDecode.md",
+                "file": "segundo-parcial/st3go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF2024/WebDecode.md"
+                "file": "segundo-parcial/st3go.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "picoCTF2024/interencdec.md",
+    "segundo-parcial/Enhance!.md",
+    "segundo-parcial/st3go.md",
+    "segundo-parcial/Redaction gone wrong.md",
+    "segundo-parcial/Forbidden Paths.md",
+    "segundo-parcial/Packets Primer.md",
+    "segundo-parcial/Lookey Here.md",
+    "segundo-parcial/Local Authority.md",
+    "segundo-parcial/Wireshark doo dooo do doo....md",
+    "segundo-parcial/SQL Direct.md",
+    "forensic/Web Net0.md",
+    "forensic/tunn3l v1s10n.md",
+    "forensic/shark on wire 2.md",
+    "forensic/shark on wire.md",
+    "segundo-parcial/information.md",
+    "segundo-parcial/Includes.md",
+    "Plantilla.md",
+    "segundo-parcial/Secrets.md",
+    "segundo-parcial/Search source.md",
+    "segundo-parcial/Roboto Sans.md",
+    "segundo-parcial/Power Cookie.md",
+    "segundo-parcial/Inspect HTML.md",
     "picoCTF2024/WebDecode.md",
+    "segundo-parcial",
+    "picoCTF2024/interencdec.md",
     "picoCTF2024/format string 0.md",
     "picoCTF2024/Bookmarklet.md",
     "picoCTF2024/binhexa.md",
-    "picoCTF2024/Custom encryption.md",
-    "picoCTF2024/Binary Search.md",
-    "picoCTF2024/Time Machine.md",
-    "picoCTF2024/Super SSH.md",
-    "picoCTF2024/endianness.md",
-    "picoCTF2024/Commitment Issues.md",
-    "picoCTF2024/dont-you-love-banners.md",
-    "picoCTF2024/Collaborative Development.md",
-    "picoCTF2024/Blame Game.md",
-    "picoCTF2024/Verify.md",
-    "picoCTF2024/Secret of the Polyglot.md",
-    "picoCTF2024/Scan Surprise.md",
-    "picoCTF2024/Mob Psycho.md",
-    "picoCTF2024/Heap 0.md",
-    "picoCTF2024/CanYouSee.md",
-    "forensic/Matryoshka doll.md",
-    "Plantilla.md",
-    "forensic/Web Net1.md",
-    "forensic/Web Net0.md",
-    "forensic/MacroHard WeakEdge.md",
-    "forensic/tunn3l v1s10n.md",
     "picoCTF2024",
     "forensic",
     "retosWeb",
