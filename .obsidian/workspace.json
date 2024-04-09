@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo-parcial/st3go.md",
+                "file": "criptografia/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-parcial/st3go.md",
+                "file": "criptografia/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-parcial/st3go.md",
+                "file": "criptografia/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-parcial/st3go.md"
+                "file": "criptografia/waves over lambda.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "segundo-parcial/Enhance!.md",
+    "Plantilla.md",
+    "criptografia/waves over lambda.md",
+    "criptografia/Tapping.md",
+    "criptografia/La cifra de.md",
+    "criptografia/Easy1.md",
+    "criptografia/Caesar.md",
+    "criptografia/13.md",
+    "criptografia/The numbers.md",
     "segundo-parcial/st3go.md",
+    "criptografia",
+    "segundo-parcial/Enhance!.md",
     "segundo-parcial/Redaction gone wrong.md",
     "segundo-parcial/Forbidden Paths.md",
     "segundo-parcial/Packets Primer.md",
@@ -163,18 +172,10 @@
     "forensic/shark on wire.md",
     "segundo-parcial/information.md",
     "segundo-parcial/Includes.md",
-    "Plantilla.md",
     "segundo-parcial/Secrets.md",
     "segundo-parcial/Search source.md",
     "segundo-parcial/Roboto Sans.md",
-    "segundo-parcial/Power Cookie.md",
-    "segundo-parcial/Inspect HTML.md",
-    "picoCTF2024/WebDecode.md",
     "segundo-parcial",
-    "picoCTF2024/interencdec.md",
-    "picoCTF2024/format string 0.md",
-    "picoCTF2024/Bookmarklet.md",
-    "picoCTF2024/binhexa.md",
     "picoCTF2024",
     "forensic",
     "retosWeb",
