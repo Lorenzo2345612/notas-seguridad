@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criptografia/waves over lambda.md",
+                "file": "criptografia/mini RSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "criptografia/waves over lambda.md",
+                "file": "criptografia/mini RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "criptografia/waves over lambda.md",
+                "file": "criptografia/mini RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "criptografia/waves over lambda.md"
+                "file": "criptografia/mini RSA.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
+    "criptografia/b00tl3gRSA2.md",
     "Plantilla.md",
+    "criptografia/mini RSA.md",
+    "criptografia/rsa-pop-quiz.md",
     "criptografia/waves over lambda.md",
     "criptografia/Tapping.md",
     "criptografia/La cifra de.md",
@@ -172,9 +175,6 @@
     "forensic/shark on wire.md",
     "segundo-parcial/information.md",
     "segundo-parcial/Includes.md",
-    "segundo-parcial/Secrets.md",
-    "segundo-parcial/Search source.md",
-    "segundo-parcial/Roboto Sans.md",
     "segundo-parcial",
     "picoCTF2024",
     "forensic",
