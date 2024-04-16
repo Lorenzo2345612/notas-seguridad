@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criptografia/mini RSA.md",
+                "file": "criptografia/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "criptografia/mini RSA.md",
+                "file": "criptografia/HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "criptografia/mini RSA.md",
+                "file": "criptografia/HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "criptografia/mini RSA.md"
+                "file": "criptografia/HideToSee.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "criptografia/b00tl3gRSA2.md",
+    "criptografia/ReadMyCert.md",
     "Plantilla.md",
+    "criptografia/HideToSee.md",
+    "criptografia/Pixelated.md",
+    "criptografia/Mind your Ps and Qs.md",
+    "criptografia/basic-mod-1.md",
     "criptografia/mini RSA.md",
+    "criptografia/b00tl3gRSA2.md",
     "criptografia/rsa-pop-quiz.md",
     "criptografia/waves over lambda.md",
     "criptografia/Tapping.md",
@@ -170,11 +175,6 @@
     "segundo-parcial/Wireshark doo dooo do doo....md",
     "segundo-parcial/SQL Direct.md",
     "forensic/Web Net0.md",
-    "forensic/tunn3l v1s10n.md",
-    "forensic/shark on wire 2.md",
-    "forensic/shark on wire.md",
-    "segundo-parcial/information.md",
-    "segundo-parcial/Includes.md",
     "segundo-parcial",
     "picoCTF2024",
     "forensic",
