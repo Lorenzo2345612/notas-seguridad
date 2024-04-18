@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criptografia/HideToSee.md",
+                "file": "reversing/vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "criptografia/HideToSee.md",
+                "file": "reversing/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "criptografia/HideToSee.md",
+                "file": "reversing/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "criptografia/HideToSee.md"
+                "file": "reversing/vault-door-5.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "criptografia/ReadMyCert.md",
+    "reversing/vault-door-4.md",
+    "reversing/vault-door-1.md",
+    "reversing/vault-door-3.md",
+    "reversing/vault-door-5.md",
     "Plantilla.md",
+    "README.md",
+    "reversing/vault-door-training.md",
     "criptografia/HideToSee.md",
+    "reversing",
+    "criptografia/ReadMyCert.md",
     "criptografia/Pixelated.md",
     "criptografia/Mind your Ps and Qs.md",
     "criptografia/basic-mod-1.md",
@@ -169,12 +176,6 @@
     "segundo-parcial/Enhance!.md",
     "segundo-parcial/Redaction gone wrong.md",
     "segundo-parcial/Forbidden Paths.md",
-    "segundo-parcial/Packets Primer.md",
-    "segundo-parcial/Lookey Here.md",
-    "segundo-parcial/Local Authority.md",
-    "segundo-parcial/Wireshark doo dooo do doo....md",
-    "segundo-parcial/SQL Direct.md",
-    "forensic/Web Net0.md",
     "segundo-parcial",
     "picoCTF2024",
     "forensic",
