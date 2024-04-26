@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reversing/vault-door-5.md",
+                "file": "reversing/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reversing/vault-door-5.md",
+                "file": "reversing/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reversing/vault-door-5.md",
+                "file": "reversing/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reversing/vault-door-5.md"
+                "file": "reversing/asm3.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
-    "reversing/vault-door-4.md",
-    "reversing/vault-door-1.md",
-    "reversing/vault-door-3.md",
-    "reversing/vault-door-5.md",
     "Plantilla.md",
+    "reversing/asm3.md",
+    "reversing/asm2.md",
+    "reversing/asm1.md",
+    "reversing/vault-door-1.md",
+    "reversing/vault-door-5.md",
+    "reversing/vault-door-4.md",
+    "reversing/vault-door-3.md",
     "README.md",
     "reversing/vault-door-training.md",
     "criptografia/HideToSee.md",
@@ -173,9 +176,6 @@
     "criptografia/The numbers.md",
     "segundo-parcial/st3go.md",
     "criptografia",
-    "segundo-parcial/Enhance!.md",
-    "segundo-parcial/Redaction gone wrong.md",
-    "segundo-parcial/Forbidden Paths.md",
     "segundo-parcial",
     "picoCTF2024",
     "forensic",
