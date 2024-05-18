@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reversing/asm3.md",
+                "file": "tercer-parcial/No Padding, No Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reversing/asm3.md",
+                "file": "tercer-parcial/No Padding, No Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reversing/asm3.md",
+                "file": "tercer-parcial/No Padding, No Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reversing/asm3.md"
+                "file": "tercer-parcial/No Padding, No Problem.md"
               }
             }
           }
@@ -148,33 +148,34 @@
   },
   "active": "2f1913332d6be20d",
   "lastOpenFiles": [
+    "tercer-parcial/SRA.md",
     "Plantilla.md",
-    "reversing/asm3.md",
-    "reversing/asm2.md",
-    "reversing/asm1.md",
-    "reversing/vault-door-1.md",
-    "reversing/vault-door-5.md",
-    "reversing/vault-door-4.md",
-    "reversing/vault-door-3.md",
-    "README.md",
-    "reversing/vault-door-training.md",
-    "criptografia/HideToSee.md",
+    "tercer-parcial/Mr-Worldwide.md",
+    "tercer-parcial/Flags.md",
+    "tercer-parcial/VIGENERE.md",
+    "tercer-parcial/transformation.md",
+    "tercer-parcial/substitution1.md",
+    "tercer-parcial/substitution0.md",
+    "tercer-parcial/Play Nice.md",
+    "tercer-parcial/No Padding, No Problem.md",
+    "tercer-parcial/morse-code.md",
+    "tercer-parcial/keygenme-py.md",
+    "tercer-parcial/GDB baby step 2.md",
+    "tercer-parcial/GDB baby step 1.md",
+    "tercer-parcial/crack-me.py.md",
+    "tercer-parcial/C3.md",
+    "tercer-parcial/Bit-O-Asm-4.md",
+    "tercer-parcial/Bit-O-Asm-3.md",
+    "tercer-parcial/Bit-O-Asm-2.md",
+    "tercer-parcial/Bit-O-Asm-1.md",
+    "tercer-parcial/ASCII FTW.md",
+    "tercer-parcial/Untitled 1.md",
+    "reversing/Need For Speed.md",
+    "reversing/reverse_cipher.md",
+    "reversing/GDB Test Drive.md",
+    "reversing/Safe Opener 2.md",
+    "tercer-parcial",
     "reversing",
-    "criptografia/ReadMyCert.md",
-    "criptografia/Pixelated.md",
-    "criptografia/Mind your Ps and Qs.md",
-    "criptografia/basic-mod-1.md",
-    "criptografia/mini RSA.md",
-    "criptografia/b00tl3gRSA2.md",
-    "criptografia/rsa-pop-quiz.md",
-    "criptografia/waves over lambda.md",
-    "criptografia/Tapping.md",
-    "criptografia/La cifra de.md",
-    "criptografia/Easy1.md",
-    "criptografia/Caesar.md",
-    "criptografia/13.md",
-    "criptografia/The numbers.md",
-    "segundo-parcial/st3go.md",
     "criptografia",
     "segundo-parcial",
     "picoCTF2024",
